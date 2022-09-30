@@ -1,0 +1,34 @@
+{
+  "compras": [
+    {
+      "id": 1,
+      "item": "Feijão",
+      "quantidade": "3333"
+    },
+    {
+      "id": 2,
+      "item": "Mostarda",
+      "quantidade": "4444"
+    },
+    {
+      "id": 3,
+      "item": "Arroz",
+      "quantidade": 4
+    },
+    {
+      "id": 4,
+      "item": "Açucar",
+      "quantidade": 4
+    },
+    {
+      "id": 5,
+      "item": "Leite",
+      "quantidade": 4
+    },
+    {
+      "item": "cacau",
+      "quantidade": 1,
+      "id": 7
+    }
+  ]
+}
